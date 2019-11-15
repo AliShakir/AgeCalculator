@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Form1.resources
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.exe
+C:\Users\Lenovo\source\repos\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.pdb
