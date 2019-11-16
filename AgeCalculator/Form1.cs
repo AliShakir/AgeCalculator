@@ -24,7 +24,6 @@ namespace AgeCalculator
         public void Display()
         {
             DateTime date = DateTime.Now;
-           // DateTime BirthDate = new DateTime(1985, 2, 11, 0, 0, 0);
             TimeSpan diffResult = date.Subtract(dtpDob.Value);
             string Months = ((diffResult.Days) % 365).ToString();
             string RemainingMonths = (Convert.ToInt32(Months) / 31).ToString();
@@ -33,7 +32,11 @@ namespace AgeCalculator
             lblYears.Text = RemainginYears.ToString()+" Years";
             lblMonths.Text = RemainingMonths.ToString() + " Months";
             lblDays.Text = RemainingDays.ToString() + " Days old";
-            //MessageBox.Show(RemainginYears + "-" + RemainingMonths + "-" + RemainingDays);
+        }
+
+        private void dtpDob_ValueChanged(object sender, EventArgs e)
+        {
+            Display();
         }
     }
 }

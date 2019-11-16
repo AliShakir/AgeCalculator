@@ -58,6 +58,7 @@
             this.dtpDob.Name = "dtpDob";
             this.dtpDob.Size = new System.Drawing.Size(221, 26);
             this.dtpDob.TabIndex = 1;
+            this.dtpDob.ValueChanged += new System.EventHandler(this.dtpDob_ValueChanged);
             // 
             // groupBox1
             // 
